@@ -46,7 +46,7 @@ Passionate about building scalable backend systems with **.NET** and diving into
 ### 📫 How to Reach Me  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/naytunlinn)  
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/naytunlinn)  
-- ✉️ **naytunlinn.dev@example.com**  
+- ✉️ **fireburning353@gmail.com**  
 
 ### ⚡ Fun Fact  
 I can debug .NET apps while eating Mohinga! 🍜  
