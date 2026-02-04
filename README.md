@@ -65,6 +65,4 @@ I can debug .NET apps while eating Mohinga! 🍜
 ---
 
 ```html
-<!---
-NayTunLinn/NayTunLinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+
